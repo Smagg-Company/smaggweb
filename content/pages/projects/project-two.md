@@ -5,7 +5,7 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  A page describe what Smagg is and what the origin of it and why Smagg was
+  A page describing what Smagg is and what the origin of  and why Smagg was
   created
 featuredImage:
   type: ImageBlock
