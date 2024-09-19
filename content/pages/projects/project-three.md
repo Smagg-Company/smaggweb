@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Amazon
+title: Smagg AI
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
