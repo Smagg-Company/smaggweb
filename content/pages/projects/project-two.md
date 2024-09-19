@@ -16,4 +16,4 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
-Smagg, a company based in Southern Africa. It has a total of 3 members and all of  which are owners. Smagg is a variety company we sell items we make programs we are currently working on a AI called Smagg AI
+Smagg, a company based in Southern Africa. It has a total of 3 members and all of  which are owners. Smagg is a variety company we sell items we make programs we are currently working on a AI called Smagg AI and will be released later this yeah. For anything make sure to contact us on any of our socials and our support mail
