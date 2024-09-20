@@ -27,14 +27,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Instagram",
-                "altText": "",
-                "url": "",
-                "icon": "twitter",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "twitter.com/smagginfo",
