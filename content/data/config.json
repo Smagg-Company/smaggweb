@@ -32,7 +32,7 @@
             "email": "support@smagg.org",
             "emailAltText": "",
             "address": "",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
