@@ -4,7 +4,7 @@ title: Smagg AI
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: 'An AI '
+description: 'An Upcoming Project that is still in the making '
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
