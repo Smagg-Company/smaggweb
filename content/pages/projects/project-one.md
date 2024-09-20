@@ -14,3 +14,7 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
+X=x.com/smagginfo
+
+Instagram=smagginfo
+
