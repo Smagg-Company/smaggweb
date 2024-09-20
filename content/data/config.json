@@ -43,7 +43,7 @@
             "phoneAltText": "Phone",
             "email": "support@smagg.org",
             "emailAltText": "Email",
-            "address": "312 Lovely Street, NY",
+            "address": "",
             "addressAltText": "Address",
             "elementId": ""
         }
