@@ -17,3 +17,7 @@ media:
 Twitter=x.com/smagginfo
 
 Instagram=smagginfo
+
+Youtube=coming soon
+
+TikTok=coming soon
