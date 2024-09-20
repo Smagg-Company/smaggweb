@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: We are smagg.
-    subtitle: A company where everything is possible
+    subtitle: A company where anything and everything is possible
     styles:
       self:
         height: auto
