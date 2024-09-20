@@ -27,7 +27,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "0696712013",
+            "phoneNumber": "+27 69-671-2013",
             "phoneAltText": "My phone number",
             "email": "support@smagg.org",
             "emailAltText": "",
