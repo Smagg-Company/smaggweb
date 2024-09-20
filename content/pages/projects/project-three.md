@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Smagg AI
 colors: colors-a
 date: '2024-09-20'
-client: Awesome client
+client: Smagg artificial Intelligence
 description: 'An Upcoming Project that is still in the making '
 featuredImage:
   type: ImageBlock
