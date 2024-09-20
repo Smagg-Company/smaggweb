@@ -39,7 +39,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+27 67 671 2013",
             "phoneAltText": "Phone",
             "email": "john@doe.com",
             "emailAltText": "Email",
